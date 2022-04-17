@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Noticias sobre el conflicto entre Rusia y Ucrania]]></title>
+        <description><![CDATA[Página web dedicada a la publicación de noticias relacionadas con el conflicto entre Rusia y Ucrania.]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sun, 17 Apr 2022 12:15:57 GMT</lastBuildDate>
+        <pubDate>Thu, 01 Jan 1970 00:00:02 GMT</pubDate>
+        <language><![CDATA[es]]></language>
+        <item>
+            <title><![CDATA[Destruyen una fábrica de misiles en las afueras de Kiev.]]></title>
+            <description><![CDATA[Las fuerzas del Kremlin destruyen una fábrica de misiles situada en las afueras de Kiev después de que Ucrania derribase el Moskva con dos misiles Neptune.“El ataque en la planta de Zhulyany Vizar (el almacén) destruyó una cadena de fabricación de misiles de largo alcance antiaéreos y antibuques”, declaró el portavoz de Defensa ruso, Igor Konashenkov.]]></description>
+            <guid isPermaLink="false">Destruyen una fábrica de misiles en las afueras de Kiev.</guid>
+        </item>
+        <item>
+            <title><![CDATA[Dos misiles Neptuno hundieron el Moskva matando a su capitán.]]></title>
+            <description><![CDATA[Rusia y Ucrania están de acuerdo en que el crucero de misiles ruso Moskva, su buque insignia del Mar Negro, fue retirado de servicio el miércoles, pero no hay acuerdo sobre cómo sucedió eso. Los medios estatales rusos, citando al Ministerio de Defensa, dicho «municiones detonadas como resultado de un incendio en el crucero de misiles Moskva», el barco «fue gravemente dañado» y «toda la tripulación» del 510 fue evacuada. Horas antes, el gobernador de Odessa dijo que Ucrania había alcanzado el barco con misiles antibuque Neptune y había infligido «daños muy graves».]]></description>
+            <guid isPermaLink="false">Dos misiles Neptuno hundieron el Moskva matando a su capitán.</guid>
+        </item>
+        <item>
+            <title><![CDATA[Las tropas rusas tratan de eliminar los últimos focos de resistencia en Mariúpol.]]></title>
+            <description><![CDATA[Ucrania cumple este sábado 52 días de guerra con nuevos bombardeos sobre Kiev. El ejército ruso parece haber reforzado sus ataques, las sirenas antiaéreas se escucharon en buena parte del país y, según medios locales, en Kiev y el Leópolis se han registrado fuertes explosiones.Las autoridades ucranianas han reportado fuertes bombardeos y ataque de tropas rusas en la región de Donetsk (sureste del país) y temen que sea el comienzo de una gran ofensiva con el propósito de conquista el Donbass.]]></description>
+            <guid isPermaLink="false">Las tropas rusas tratan de eliminar los últimos focos de resistencia en Mariúpol.</guid>
+        </item>
+        <item>
+            <title><![CDATA[La controvertida tecnología que usa Ucrania para identificar a los muertos y enemigos en la guerra.]]></title>
+            <description><![CDATA[Las autoridades ucranianas no sabían quién era la víctima, por lo que decidieron recurrir a un método de vanguardia: el reconocimiento facial mediante inteligencia artificial.El sistema de reconocimiento facial de la compañía Clearview AI es el más famoso y controvertido del mundo.La compañía ha recopilado miles de millones de fotos de redes sociales, de sitios como Facebook y Twitter, para crear una enorme base de datos de lo que su presidente y fundador, Hoan Ton-That, llama «un motor de búsqueda de rostros». «Funciona como Google». Pero en lugar de poner una serie de cadena de palabras o texto, el usuario pone una foto de una cara», explica Ton-That.La compañía ha enfrentado varios desafíos legales. Facebook, YouTube, Google y Twitter han enviado notificaciones a Clearview solicitándole que deje de usar imágenes de sus sitios. La Oficina del Comisionado de Información de Reino Unido incluso multó a la empresa por no informar a los usuarios sobre la recopilación de sus fotos personales.]]></description>
+            <guid isPermaLink="false">La controvertida tecnología que usa Ucrania para identificar a los muertos y enemigos en la guerra.</guid>
+        </item>
+        <item>
+            <title><![CDATA[La ONU advierte de que más de 100.000 civiles en Mariupol se están muriendo de hambre.]]></title>
+            <description><![CDATA[El director del Programa Mundial de Alimentos de la ONU, David Beasley, ha asegurado que más de 100.000 civiles “se están muriendo de hambre” en Mariupol, situada desde hace semanas por el Ejército ruso. En una entrevista con la agencia de noticias AP, Beasley ha denunciado que cientos de miles de ciudadanos “necesitan desesperadamente alimentos, agua y calefacción”. “Las fuerzas rusas no han permitido la entrada de ayuda, a pesar de que hemos exigido el acceso”, cuenta el director del organismo.]]></description>
+            <guid isPermaLink="false">La ONU advierte de que más de 100.000 civiles en Mariupol se están muriendo de hambre.</guid>
+        </item>
+    </channel>
+</rss>
